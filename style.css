@@ -1,0 +1,32 @@
+#box {
+    background: #836FFF;
+    color: #FFFFF0;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    text-align: center;
+    font-family: "Mate SC", serif;
+
+}
+
+.botao {
+    background: black;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 80px;
+    border-radius: 5px;
+    font-family: "Mate SC", serif;
+
+}
+.buttons-container {
+margin: auto;
+width: 180px;
+}
+
+.botao:hover {
+    transform: scale(1.1);
+}
